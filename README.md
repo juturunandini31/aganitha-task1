@@ -84,7 +84,7 @@ If you face any issues, feel free to raise them in the **Issues section** of thi
 ---
 
 ## 💡 Credits
-This project was created by **Nandini Jutur** as part of an assignment.
+This project was created by **Nandini Juturu** as part of an assignment.
 
 If you find this project helpful, consider giving it a ⭐ on GitHub. 😊
 
@@ -92,13 +92,8 @@ If you find this project helpful, consider giving it a ⭐ on GitHub. 😊
 
 ## 📬 Contact
 For any queries or collaborations, feel free to connect with me on:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
-- **Email**: your-email@gmail.com
+- **LinkedIn**: www.linkedin.com/in/nandini-juturu-660246252
+- **Email**: juturunandini31@gmail.com
 
 ---
-
-## 📜 License
-This project is **open-source** under the [MIT License](LICENSE).
-
-Feel free to modify, distribute, or build upon this project. 💻🚀
 
